@@ -1,0 +1,7 @@
+main.c:33:5:main	18
+main.c:146:6:TIM2_IRQHandler	8
+main.c:195:6:TIM2_init	1
+main.c:213:6:generate_sine_table	2
+main.c:219:6:generate_triangle_table	3
+main.c:239:6:SystemClock_Config	4
+main.c:287:6:Error_Handler	1

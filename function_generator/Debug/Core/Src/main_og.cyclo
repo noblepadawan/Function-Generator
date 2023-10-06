@@ -1,0 +1,6 @@
+main_og.c:68:5:main	67
+main_og.c:306:6:TIM2_IRQHandler	8
+main_og.c:361:6:TIM2_init	1
+main_og.c:375:6:generate_sine_table	2
+main_og.c:386:6:SystemClock_Config	4
+main_og.c:434:6:Error_Handler	1
